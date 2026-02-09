@@ -68,9 +68,8 @@
 ## 📁 **Структура репозитория**
 
 ```
-/tests
-  test_portfolio.py
-  test_portfolio.spec.ts
+test_portfolio.py
+test_portfolio.spec.ts
 README.md
 ```
 
